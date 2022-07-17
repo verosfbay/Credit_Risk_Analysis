@@ -43,11 +43,11 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 <img width="699" alt="Screen Shot 2022-07-17 at 4 04 17 PM" src="https://user-images.githubusercontent.com/95447175/179428326-01b3234c-13d8-4a50-b7c8-2ef7bbf4226e.png">
 
 ### EasyEnsembleClassifier model
-* The balanced accuracy score is about 
+* The balanced accuracy score is about 99% (99.28)
+<img width="416" alt="Screen Shot 2022-07-17 at 4 26 43 PM" src="https://user-images.githubusercontent.com/95447175/179429041-f0ed86b7-4bba-425d-9cf3-613ac2ea58af.png">
 
-
-* The high risk precision rate is % with the recall at %, the low risk precision rate is % with a recall at % 
-
+* The high risk precision rate is 2% with the recall at 1%, the low risk precision rate is 100% with a recall at 100% 
+<img width="481" alt="Screen Shot 2022-07-17 at 4 27 23 PM" src="https://user-images.githubusercontent.com/95447175/179429061-806a2297-7c81-4475-b7cb-d63a3a5877f0.png">
 
 ## Summary
 Ultimately, choosing the right model to use is up to the company and is based on their risk-tolerance. If the model is very quick to reject risky loan applicants, the company may struggle to get enough business and lose money to their competitors. On the other hand, if the model tells lenders to give out loans left and right, the company may lose money to untrustworthy applicants. 
