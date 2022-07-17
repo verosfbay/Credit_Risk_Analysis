@@ -9,22 +9,29 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ### Naive Random Oversampling
 * The balanced accuracy score is about 65% (65.47)
+<img width="453" alt="Screen Shot 2022-07-17 at 3 56 36 PM" src="https://user-images.githubusercontent.com/95447175/179428108-41332c64-6750-4ac9-9dbf-0b9732f761d7.png">
+
 * The precision and recall scores are below: 
 <img width="687" alt="Screen Shot 2022-07-17 at 1 14 03 PM" src="https://user-images.githubusercontent.com/95447175/179423274-6a872a11-9431-4c3b-972c-2448347b3e11.png">
 
 ### SMOTE Oversampling 
-* The balanced accuracy score is about 
+* The balanced accuracy score is about 66% (66.20) 
+<img width="393" alt="Screen Shot 2022-07-17 at 3 56 49 PM" src="https://user-images.githubusercontent.com/95447175/179428117-88e18e32-a23b-4dab-b436-d3742e167a66.png">
+
 * The precision and recall scores are below: 
 <img width="665" alt="Screen Shot 2022-07-17 at 1 15 21 PM" src="https://user-images.githubusercontent.com/95447175/179423326-d72058e2-4868-40e3-97c3-c6accc6fe232.png">
 
 ### Undersampling
 * The balanced accuracy score is about 54% (54.42) 
+<img width="432" alt="Screen Shot 2022-07-17 at 3 57 19 PM" src="https://user-images.githubusercontent.com/95447175/179428134-ed8eb381-080d-44af-970e-7dcc59468a61.png">
+
 * The precision and recall scores are below:
 <img width="752" alt="Screen Shot 2022-07-17 at 3 45 02 PM" src="https://user-images.githubusercontent.com/95447175/179427756-4871c57a-65c4-4749-ae1a-f0e48943ed0b.png">
 
-
 ### SMOTEENN Combination Sampling
 * The balanced accuracy score is about 65% (64.73)
+<img width="471" alt="Screen Shot 2022-07-17 at 3 57 38 PM" src="https://user-images.githubusercontent.com/95447175/179428142-ae3cb8e9-f962-4ff7-a95e-be23387e44dc.png">
+
 * The precision and recall scores are below:
 <img width="767" alt="Screen Shot 2022-07-17 at 3 52 34 PM" src="https://user-images.githubusercontent.com/95447175/179428012-b8e56fcc-13f3-4f29-8389-a5760fc2500b.png">
 
