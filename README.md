@@ -43,12 +43,13 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 <img width="699" alt="Screen Shot 2022-07-17 at 4 04 17 PM" src="https://user-images.githubusercontent.com/95447175/179428326-01b3234c-13d8-4a50-b7c8-2ef7bbf4226e.png">
 
 ### EasyEnsembleClassifier model
-* The balanced accuracy score is about 65% (64.73)
+* The balanced accuracy score is about 
 
 
-* The high risk precision rate is 1% with the recall at 72%, the low risk precision rate is 100% with a recall at 57% 
-
+* The high risk precision rate is % with the recall at %, the low risk precision rate is % with a recall at % 
 
 
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+Ultimately, choosing the right model to use is up to the company and is based on their risk-tolerance. If the model is very quick to reject applicants, the company may struggle to get enough business and lose money. On the other hand, if the model gives out loans left and right, the company may lose money to untrustworthy applicants. 
+
+
