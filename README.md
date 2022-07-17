@@ -11,14 +11,14 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 * The balanced accuracy score is about 65% (65.47)
 <img width="453" alt="Screen Shot 2022-07-17 at 3 56 36 PM" src="https://user-images.githubusercontent.com/95447175/179428108-41332c64-6750-4ac9-9dbf-0b9732f761d7.png">
 
-* The high risk precision rate is 1% with the recall at 64%, the low risk precision rate is 100% with a recall at 69% 
+* The high risk precision rate is 1% with the recall at 63%, the low risk precision rate is 100% with a recall at 69% 
 <img width="687" alt="Screen Shot 2022-07-17 at 1 14 03 PM" src="https://user-images.githubusercontent.com/95447175/179423274-6a872a11-9431-4c3b-972c-2448347b3e11.png">
 
 ### SMOTE Oversampling 
 * The balanced accuracy score is about 66% (66.20) 
 <img width="393" alt="Screen Shot 2022-07-17 at 3 56 49 PM" src="https://user-images.githubusercontent.com/95447175/179428117-88e18e32-a23b-4dab-b436-d3742e167a66.png">
 
-* The high risk precision rate is 1% with the recall at 64%, the low risk precision rate is 100% with a recall at 69% 
+* The high risk precision rate is 1% with the recall at 63%, the low risk precision rate is 100% with a recall at 69% 
 <img width="665" alt="Screen Shot 2022-07-17 at 1 15 21 PM" src="https://user-images.githubusercontent.com/95447175/179423326-d72058e2-4868-40e3-97c3-c6accc6fe232.png">
 
 ### Undersampling
