@@ -35,6 +35,20 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 * The high risk precision rate is 1% with the recall at 72%, the low risk precision rate is 100% with a recall at 57% 
 <img width="767" alt="Screen Shot 2022-07-17 at 3 52 34 PM" src="https://user-images.githubusercontent.com/95447175/179428012-b8e56fcc-13f3-4f29-8389-a5760fc2500b.png">
 
+### BalancedRandomForestClassifier 
+* The balanced accuracy score is about 68% (68.30)
+<img width="384" alt="Screen Shot 2022-07-17 at 4 03 43 PM" src="https://user-images.githubusercontent.com/95447175/179428316-7135a5af-61e2-4cb9-8033-a2e2b6ecd9b3.png">
+
+* The high risk precision rate is 88% with the recall at 37%, the low risk precision rate is 100% with a recall at 100% 
+<img width="699" alt="Screen Shot 2022-07-17 at 4 04 17 PM" src="https://user-images.githubusercontent.com/95447175/179428326-01b3234c-13d8-4a50-b7c8-2ef7bbf4226e.png">
+
+### EasyEnsembleClassifier model
+* The balanced accuracy score is about 65% (64.73)
+
+
+* The high risk precision rate is 1% with the recall at 72%, the low risk precision rate is 100% with a recall at 57% 
+
+
 
 ## Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
