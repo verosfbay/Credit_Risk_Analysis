@@ -52,5 +52,5 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ## Summary
 Ultimately, choosing the right model to use is up to the company and is based on their risk-tolerance. If the model is very quick to reject risky loan applicants, the company may struggle to get enough business and lose money to their competitors. On the other hand, if the model tells lenders to give out loans left and right, the company may lose money to untrustworthy applicants. 
 
-I would recommend the SMOTEENN Combination Sampling model because it has the best recall rate of 72%. The recall rate represents the percentage of high-risk loans that were flagged down correctly. 
+I would recommend the SMOTEENN Combination Sampling model because it has the best high-risk recall rate of 72%. The recall rate represents the percentage of high-risk loans that were flagged down correctly. 
 
